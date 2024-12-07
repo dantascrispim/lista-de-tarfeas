@@ -25,7 +25,7 @@
     
 ## Como contribuir
 
-   Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+   📝 Contribuições Contribua com suas ideias para aprimorar meu portfólio abrindo uma issue ou fazendo um pull request. Feedbacks são bem-vindos! 🌟🚀
     
 ## License
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
@@ -39,5 +39,5 @@
 
      Email: dantas10.crispim@gmail.com
 
-📝 Contribuições Contribua com suas ideias para aprimorar meu portfólio abrindo uma issue ou fazendo um pull request. Feedbacks são bem-vindos! 🌟🚀
+
 
