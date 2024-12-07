@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 #container {
-    border: 1px solid #8156E5;
+    background: rgb(241, 241, 241);
+    
     margin: 30px;
     padding: 30px;
     border-radius: 5px;
