@@ -12,8 +12,7 @@
 
 ## 🚀 O Que é?
 
-Playlist-Dev, é um projeto desenvolvido durante um curso de JavaScript onde foi demostrato minhas habilidades,
-com essa playlist, são formas práticas e criativas de organizar músicas e tornar a experiência musical ainda mais rica e personalizada.
+  Uma lista de tarefas é uma ferramenta simples e prática que ajuda a organizar, priorizar e acompanhar atividades ou compromissos que precisam ser realizados. Ela pode ser usada para fins pessoais, acadêmicos, ou profissionais e é uma maneira eficiente de melhorar a produtividade e manter o foco.
 
 ## 🛠️ Tecnologias Usadas
   - HTML5: Estrutura do aplicativo.
